@@ -1,15 +1,18 @@
+starting processResources
+starting processResources
+srcFiles: C:\Users\Zamidar\Dev\Minecraft\1.7\potential-octo-bear/src/main/resources
+srcFiles: C:\Users\Zamidar\Dev\Minecraft\1.7\potential-octo-bear/src/main/resources
+destDir: C:\Users\Zamidar\Dev\Minecraft\1.7\potential-octo-bear/build/classes/main
+destDir: C:\Users\Zamidar\Dev\Minecraft\1.7\potential-octo-bear/build/classes/main
 ****************************
  Powered By MCP:             
  http://mcp.ocean-labs.de/   
  Searge, ProfMobius, Fesh0r, 
  R4wk, ZeuX, IngisKahn, bspkrs
- MCP Data version : snapshot_20141130
+ MCP Data version : unknown
 ****************************
-:ideaModule
-:ideaProject
-:ideaWorkspace
-:idea
+:genIntellijRuns
 
 BUILD SUCCESSFUL
 
-Total time: 18.977 secs
+Total time: 4.063 secs
